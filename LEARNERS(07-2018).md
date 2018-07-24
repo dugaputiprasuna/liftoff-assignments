@@ -37,6 +37,7 @@
 - Brandon D
 - Andrew D
 - Gnanaprasuna D
+- [Gnanaprasuna,(@dugaputiprasuna)](https://github.com/dugaputiprasuna/liftoff-assignments)
 - Andrew E
 - [Edwards, Sandra (@lilsan23)](https://github.com/lilsan23/liftoff-assignments.git)
 - Jonathan E
