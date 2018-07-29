@@ -23,4 +23,4 @@ Click the [P1 - Assignment Repository Setup](./P1-Assignment_Repository_Setup/) 
 
 
 
-Click  [My project UI Mocks] (https://github.com/dugaputiprasuna/liftoff-assignments/commit/a03ddf7523da99e82ab500d6b8d66fc7715b8710)
+Click  [My project UI Mocks](https://github.com/dugaputiprasuna/liftoff-assignments/commit/a03ddf7523da99e82ab500d6b8d66fc7715b8710)
