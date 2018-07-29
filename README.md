@@ -24,3 +24,5 @@ Click the [P1 - Assignment Repository Setup](./P1-Assignment_Repository_Setup/) 
 
 
 Click  [HERE](https://github.com/dugaputiprasuna/liftoff-assignments/commit/a03ddf7523da99e82ab500d6b8d66fc7715b8710) for My UI mocks
+
+Click [HERE](https://trello.com/b/4hINm5Nl/liftoff-capstone-project) for My Project Plan in Trello board
